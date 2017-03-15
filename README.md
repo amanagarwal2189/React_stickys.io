@@ -2,4 +2,4 @@
 Sticky notes app on web
 
 check it out on
-https://stickyio.herokuapp.com/
+http://stickyio.s3-website-us-east-1.amazonaws.com/
